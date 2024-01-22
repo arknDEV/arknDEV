@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-    <img src="https://telegra.ph/file/c433573304ffc3883d025.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/36479864c1c9fc71e551f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 - Jika Ingin Menanyakan Hal Seputar Bot Bisa Langsung Hubungi Gw ya
