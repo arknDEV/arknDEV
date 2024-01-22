@@ -1,7 +1,15 @@
+<p align="center">
+    <img src="https://telegra.ph/file/c433573304ffc3883d025.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
 - 👋 Halo Cuy gw @arknDEV
 - Gw hanyalah manusia biasa yang ingin jadi sepuh🛐
 
 <!---
+<p align="center">
+    <img src="https://telegra.ph/file/c433573304ffc3883d025.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
 arknDEV/arknDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
