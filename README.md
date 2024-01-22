@@ -6,8 +6,10 @@
 - Nama: Arkan.S
 - Gender: Laki-laki
 - Age: 16
-- Bio Gw Hanyalah Manusia Biasa Yang Ingin Jadi Sepuh🛐
-
+- Bio Gw Hanyalah Manusia Biasa Yang Ingin Jadi Sepuh🛐.
+- Jika Ingin Menanyakan Hal Seputar Bot Bisa Langsung Hubungi Gw ya
+- https://wa.me/6288802101736
+ 
 <!---
 <p align="center">
     <img src="https://telegra.ph/file/c433573304ffc3883d025.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -16,14 +18,15 @@
 arknDEV/arknDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- Waifu Gw🗿
 <p align="center">
     <img src="https://telegra.ph/file/c433573304ffc3883d025.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
+Saiba Momoi gw bukan pedo🗿
 <p align="center">
     <img src="https://telegra.ph/file/36479864c1c9fc71e551f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-- Jika Ingin Menanyakan Hal Seputar Bot Bisa Langsung Hubungi Gw ya
-- https://wa.me/6288802101736
- 
+Terakomari Gandesblood gw bukan pedo🗿
+
