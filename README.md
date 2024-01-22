@@ -2,8 +2,7 @@
     <img src="https://telegra.ph/file/1fe28019a9edf16d9d523.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-- 👋 Halo Cuy  gw @arknDEV
- 
+- 👋 Halo Cuy  Selamat Datang Di Profile Gw
 <!---
 <p align="center">
     <img src="https://telegra.ph/file/c433573304ffc3883d025.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
