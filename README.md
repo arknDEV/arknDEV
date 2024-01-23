@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
 ### *Pengetahuan*
 ---------
 Basic languages:
-Python, C, C++, C#
-FrontEnd:
-HTML, CSS, JavaScript
+- Python, C, C++, C#
+- FrontEnd:
+- HTML, CSS, JavaScript
 ---------
 ## Stats
 
