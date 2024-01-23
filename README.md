@@ -27,5 +27,6 @@ You can click the Preview link to take a look at your changes.
 - Jika Ingin Menanyakan Hal Seputar Bot Bisa Langsung Hubungi Gw ya
 - https://wa.me/6288802101736
 
-*_contact me_*
+### *contact me*
+### WhatsApp:
 https://wa.me/6288802101736
