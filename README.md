@@ -35,7 +35,7 @@ HTML, CSS, JavaScript
 ---------
 ## Stats
 
-![Jarotr GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpiii22&show_icons=true&theme=radical)
+
 
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarotr&theme=radical&layout=compact"></a></p>
 
