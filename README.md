@@ -20,10 +20,18 @@ You can click the Preview link to take a look at your changes.
     <img src="https://telegra.ph/file/36479864c1c9fc71e551f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
+
 - Name: Arkan.S
 - Gender: Laki-laki
 - Age: 16
 - Bio Gw Hanyalah Manusia Biasa Yang Ingin Jadi Sepuh🛐.
+
+### *Pengetahuan*
+
+Basic languages:
+Python, C, C++, C#
+FrontEnd:
+HTML, CSS, JavaScript
 
 ### *contact me*
 ### WhatsApp:
