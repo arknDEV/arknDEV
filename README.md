@@ -41,8 +41,8 @@ Basic languages:
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 ---------
-### contact me
+- contact me
 ---------
-### WhatsApp:
-https://wa.me/6288802101736
+- WhatsApp:
+- https://wa.me/6288802101736
 ---------
